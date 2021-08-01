@@ -1,2 +1,2 @@
-# myprofile
-View my Profile
+# sample-apps
+View my sample apps.
