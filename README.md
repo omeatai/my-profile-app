@@ -1,2 +1,2 @@
-# My Profile App.
+# My Profile App
 View my profile.
