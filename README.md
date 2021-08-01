@@ -1,3 +1,2 @@
-# mysamplecodes
-Codes to use 
-V.1.0
+# myprofile
+View my Profile
